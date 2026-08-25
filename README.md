@@ -10,6 +10,6 @@
 
 ## 在线演示
 
-▶ [双调排序可视化（交互式 HTML）](https://raw.githubusercontent.com/zben777/bitonic-sort/main/demo/bitonic_sort_visualizer.html)
+▶ [双调排序可视化（交互式 HTML）](https://zben777.github.io/bitonic-sort/demo/bitonic_sort_visualizer.html)
 
-> 说明：GitHub 不会在 README 内直接渲染交互式 HTML，点击上面链接会在浏览器中打开并运行该可视化页面。
+> 说明：GitHub 不会在 README 内直接渲染交互式 HTML。本项目已启用 **GitHub Pages**，点击上面链接即跳转到在线演示页面（可交互）。如想本地查看，也可直接下载 `demo/bitonic_sort_visualizer.html` 用浏览器打开。
