@@ -1,0 +1,4 @@
+
+# 本地部署私钥（绝不入库）
+.bitonic_deploy_key
+.bitonic_deploy_key.pub
